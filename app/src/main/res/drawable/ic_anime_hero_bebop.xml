@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="220dp"
+    android:viewportWidth="400"
+    android:viewportHeight="220">
+    <path
+        android:fillColor="#090C15"
+        android:pathData="M0,0 H400 V220 H0 Z" />
+    <!-- Retro Cyberpunk Neon Moon -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M200,110 m-65,0 a65,65 0 1,0 130,0 a65,65 0 1,0 -130,0" />
+    <path
+        android:fillColor="#090C15"
+        android:pathData="M225,110 m-60,0 a60,60 0 1,0 120,0 a60,60 0 1,0 -120,0" />
+    <!-- Swordfish II Silhouette -->
+    <path
+        android:fillColor="#EF476F"
+        android:pathData="M200,60 L205,150 L200,165 L195,150 Z M130,130 L200,110 L270,130 L200,120 Z" />
+    <path
+        android:fillColor="#118AB2"
+        android:pathData="M200,50 L203,70 L197,70 Z M200,110 m-8,0 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0" />
+    <!-- Starlight Dots -->
+    <path
+        android:fillColor="#06D6A0"
+        android:pathData="M80,40 L82,43 L85,45 L82,47 L80,50 L78,47 L75,45 L78,43 Z M310,50 L312,53 L315,55 L312,57 L310,60 L308,57 L305,55 L308,53 Z M70,160 L72,163 L75,165 L72,167 L70,170 L68,167 L65,165 L68,163 Z" />
+</vector>

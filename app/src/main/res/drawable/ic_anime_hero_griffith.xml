@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="220dp"
+    android:viewportWidth="400"
+    android:viewportHeight="220">
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M0,0 H400 V220 H0 Z" />
+    <!-- Celestial Radiance Circle -->
+    <path
+        android:fillColor="#1C2541"
+        android:pathData="M200,110 m-75,0 a75,75 0 1,0 150,0 a75,75 0 1,0 -150,0" />
+    <path
+        android:fillColor="#3A506B"
+        android:pathData="M200,110 m-55,0 a55,55 0 1,0 110,0 a55,55 0 1,0 -110,0" />
+    <!-- Falcon Wings Silhouette -->
+    <path
+        android:fillColor="#E0E1DD"
+        android:pathData="M200,100 C150,50 80,60 50,110 C90,115 140,120 180,125 Z M200,100 C250,50 320,60 350,110 C310,115 260,120 220,125 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M200,85 L208,135 L200,145 L192,135 Z" />
+    <!-- Crimson Behelit Ruby Heart -->
+    <path
+        android:fillColor="#C1121F"
+        android:pathData="M200,120 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+    <!-- Starlight Dust -->
+    <path
+        android:fillColor="#70D6FF"
+        android:pathData="M120,40 L123,45 L128,48 L123,51 L120,56 L117,51 L112,48 L117,45 Z M280,45 L283,50 L288,53 L283,56 L280,61 L277,56 L272,53 L277,50 Z M90,160 L93,165 L98,168 L93,171 L90,176 L87,171 L82,168 L87,165 Z" />
+</vector>

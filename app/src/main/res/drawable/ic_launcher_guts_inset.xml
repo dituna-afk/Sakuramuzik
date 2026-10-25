@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="108dp"
+        android:height="108dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#0A0406" />
+        </shape>
+    </item>
+    <item
+        android:width="66dp"
+        android:height="66dp"
+        android:drawable="@drawable/ic_preview_anime_guts"
+        android:gravity="center" />
+</layer-list>

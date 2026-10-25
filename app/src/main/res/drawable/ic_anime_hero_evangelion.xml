@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="220dp"
+    android:viewportWidth="400"
+    android:viewportHeight="220">
+    <path
+        android:fillColor="#120524"
+        android:pathData="M0,0 H400 V220 H0 Z" />
+    <!-- AT-Field Concentric Hexagons -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M200,30 L260,65 L260,135 L200,170 L140,135 L140,65 Z M200,50 L240,73 L240,127 L200,150 L160,127 L160,73 Z M200,70 L220,81 L220,119 L200,130 L180,119 L180,81 Z"
+        android:strokeColor="#FF5500"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round" />
+    <!-- EVA-01 Mecha Head & Horn Silhouette -->
+    <path
+        android:fillColor="#5A189A"
+        android:pathData="M185,130 L200,25 L215,130 L245,160 L155,160 Z" />
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M185,110 L200,100 L215,110 L205,120 L195,120 Z" />
+    <path
+        android:fillColor="#FF206E"
+        android:pathData="M192,102 L200,95 L208,102 Z" />
+</vector>
