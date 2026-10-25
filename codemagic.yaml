@@ -1,0 +1,16 @@
+workflows:
+  android-build:
+    name: Android Build
+    max_build_duration: 30
+    environment:
+      java: 17
+    scripts:
+      - name: Set up gradle wrapper
+        script: |
+          gradle wrapper
+      - name: Build Android Release
+        script: |
+          chmod +x gradlew
+          ./gradlew assembleRelease
+    artifacts:
+      - app/build/outputs/**/*.apk
